@@ -7,7 +7,6 @@ Este proyecto implementa un modelo **U-Net con codificador ResNet34** para ident
 * [Estructura del conjunto de datos](#estructura-del-conjunto-de-datos)
 * [Ejemplo de subimagen](#ejemplo-de-subimagen)
 * [Resultados](#resultados)
-
   * [Validación Cruzada (3 pliegues)](#validación-cruzada-3-pliegues)
   * [Conjunto de Prueba Final](#conjunto-de-prueba-final)
   * [Comparación de Métodos de Binarización](#comparación-de-métodos-de-binarización)
